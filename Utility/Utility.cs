@@ -46,7 +46,7 @@ public static class Utility {
 
     public static Transform FindTransformWithTag(string tag)
     {
-        GameObject tagged = GameObject.FindGameObjectWithTag("Player");
+        GameObject tagged = GameObject.FindGameObjectWithTag(tag);
         if (tagged != null)
         {
             return tagged.transform;
