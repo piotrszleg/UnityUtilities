@@ -1,6 +1,6 @@
-# UnityUtilities
+# Unity Utilities
 
-Unity3D utility scripts used in my closed source project Panic At The Picnic 2.
+Some Unity3D utility scripts used in my closed source project Panic At The Picnic 2 published under MIT License.
 
 Currently contains:
 - singleton base class
